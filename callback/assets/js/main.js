@@ -20,3 +20,5 @@ f2()
 f3()
 
 console.log('Olá mundo')
+
+
