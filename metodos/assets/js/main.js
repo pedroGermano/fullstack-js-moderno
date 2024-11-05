@@ -15,4 +15,3 @@ const outraCoisa = produto
 
 produto.nome = 'Pedro'
 console.log(outraCoisa);
-
